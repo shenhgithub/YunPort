@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_user_name">请输入用户名</string>
+    <string name="prompt_password">请输入密码</string>
+
+    <string name="login_error_parameter">用户名密码错误</string>
+    <string name="login_error_field_required">登录请求失败</string>
+
+    <string name="login_button">登	录</string>
+    <string name="login_title">登录</string>
+    <string name="login_reset">重新登录</string>
+    <string name="logout">退出登录</string>
+    <string name="login_error_null">请输入用户名密码</string>
+    <string name="login_save">记住密码</string>
+    <string name="login_auto">自动登录</string>
+    <string name="login_alert">未登录，请登录后操作</string>
+    <string name="login_loading">登录中...</string>
+    <string name="not_login">未登录</string>
+
+</resources>

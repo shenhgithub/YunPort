@@ -1,0 +1,13 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_enter_left_padding">10dp</dimen>
+    <dimen name="login_enter_height">50dp</dimen>
+    <dimen name="login_default_spacing">5dp</dimen>
+    <dimen name="navigation_drawer_top_height">200dp</dimen>
+    <dimen name="navigation_drawer_width">160dp</dimen>
+    <dimen name="navigation_drawer_list_item_height">64dp</dimen>
+    <dimen name="navigation_drawer_list_item_function_title_size">16sp</dimen>
+
+</resources>

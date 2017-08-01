@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">郁州海运</string>
+    <string name="index_error_dialog">登录失败或超时，请重新登录！</string>
+    <string name="update_now_version_loading">检查更新中...</string>
+    <string name="update_now_version_error">检查失败，请检查网络状态</string>
+    <string name="now_version_name_pre">当前版本：</string>
+    <string name="now_version_error_name">未知</string>
+    <string name="latest_version_name_pre">更新到新版本：</string>
+    <string name="copyright_date">Copyright © 2015</string>
+    <string name="copyright_author">连云港港口集团通信信息工程公司</string>
+    <string name="download_failed">文件下载失败</string>
+
+</resources>

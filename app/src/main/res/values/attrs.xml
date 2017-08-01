@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="navigation_drawer_menu_function_list">
+        <item>全部功能</item>
+        <item>重新登录</item>
+        <item>检查更新</item>
+        <item>退出</item>
+    </string-array>
+
+</resources>
